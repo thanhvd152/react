@@ -21,3 +21,4 @@ value = this.state.text.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")
                         })}
 
                     </Tabs>
+patch-package vá lỗi node_module
