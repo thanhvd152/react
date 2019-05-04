@@ -22,3 +22,6 @@ value = this.state.text.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".")
 
                     </Tabs>
 patch-package vá lỗi node_module
+
+/////////////////////////////
+Tip js ==> https://viblo.asia/p/43-thu-thuat-hay-va-huu-ich-voi-javascript-ByEZk9Rg5Q0
